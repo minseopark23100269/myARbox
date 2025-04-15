@@ -4,7 +4,7 @@ A program for camera pose estimation and AR object visualization using OpenCV
 
 # 카메라 자세 추정 및 AR 구현
 
-## 프로그램 설
+## 프로그램 소개
 이 프로그램은 체스보드를 사용하여 카메라의 자세를 추정하고, 영상 위에 증강 현실(AR) 물체를 시각화하는 프로젝트입니다. OpenCV를 활용하여 간단한 도형, 숫자/알파벳, 또는 3D 모델을 체스보드 위에 표시할 수 있습니다. 저의 경우는 구(공 모양)를 시각화했습니다. 
 
 ## 목표
@@ -22,6 +22,17 @@ A program for camera pose estimation and AR object visualization using OpenCV
 
 3. **동영상 처리**:
    - 사전 녹화된 체스보드 영상으로 AR 렌더링.
+
+##  Calibration 결과
+- **사용된 이미지 수**: 223
+- **RMS 오차 (Root Mean Square Error)**: 1.6016
+- **카메라 매트릭스 (K):**[[754.36932621 0. 354.80740075] [ 0. 769.75820428 440.99934945] [ 0. 0. 1. ]]
+- **fx:** 754.37
+- **fy:** 769.76
+- **cx:** 354.81
+- **cy:** 441.00
+- **왜곡 계수 (Distortion Coefficients):**[ 2.77612703e-01 -2.93292907e+00 1.32399985e-02 -2.81894361e-03 9.97246553e+00]
+
 
 
 
