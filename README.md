@@ -19,6 +19,7 @@ A program for camera pose estimation and AR object visualization using OpenCV
 2. **AR 물체 시각화**:
    - 구를 영상에 렌더링.
    - OpenCV를 활용한 효율적인 이미지 처리.
+   - sphere_pose_Estimation.py 스크립트 사용했습니다. 
 
 3. **동영상 처리**:
    - 사전 녹화된 체스보드 영상으로 AR 렌더링.
@@ -35,8 +36,7 @@ A program for camera pose estimation and AR object visualization using OpenCV
 
 
 ## AR object visualization 결과
-
-![AR Sphere Example](data/Cap%2025-04-15%12-24-00-010.jpg)
+![AR Sphere Example](data/Cap%202025-04-15%2012-24-00-010.jpg)
 
 
 
