@@ -36,7 +36,7 @@ A program for camera pose estimation and AR object visualization using OpenCV
 
 ## ARobject visualization 결과
 
-![이미지 설명](ddata/Cap%2025-04-15%12-24-00-010.jpg)
+![이미지 설명](data/Cap%2025-04-15%12-24-00-010.jpg)
 
 
 
