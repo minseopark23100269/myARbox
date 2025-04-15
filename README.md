@@ -34,9 +34,9 @@ A program for camera pose estimation and AR object visualization using OpenCV
 - **왜곡 계수 (Distortion Coefficients):**[ 2.77612703e-01 -2.93292907e+00 1.32399985e-02 -2.81894361e-03 9.97246553e+00]
 
 
-## ARobject visualization 결과
+## AR object visualization 결과
 
-![이미지 설명](data/Cap%2025-04-15%12-24-00-010.jpg)
+![AR Sphere Example](data/Cap%2025-04-15%12-24-00-010.jpg)
 
 
 
